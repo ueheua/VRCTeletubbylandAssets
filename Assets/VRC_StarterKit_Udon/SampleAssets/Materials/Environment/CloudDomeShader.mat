@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CloudDomeShader
+  m_Shader: {fileID: 4800000, guid: 82e75d81b04e1bb4198cd596981203aa, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _clouddark: 0.5
+    - _cloudlight: 0.3
+    - _cloudscale: 0.05
+    - _count: 6
+    - _speedroll: 0.0025
+    - _speedwind: 0.01
+    m_Colors:
+    - _skycolor: {r: 0.29999998, g: 0.5, b: 0.7, a: 1}
