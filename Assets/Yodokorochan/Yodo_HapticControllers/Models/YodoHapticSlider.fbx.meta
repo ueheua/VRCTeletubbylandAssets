@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 87776dc298463d248b2d7e9d181cabc0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base\Base
+    100002: Logo
+    100004: Slider\Solid
+    100006: //RootNode
+    100008: Base
+    100010: Brightness
+    100012: Slider
+    100014: Sound
+    100016: Vibration
+    100018: Bloom
+    100020: Contrast
+    100022: PostProcess
+    400000: Base\Base
+    400002: Logo
+    400004: Slider\Solid
+    400006: //RootNode
+    400008: Base
+    400010: Brightness
+    400012: Slider
+    400014: Sound
+    400016: Vibration
+    400018: Bloom
+    400020: Contrast
+    400022: PostProcess
+    2100000: c_0
+    2100002: c_1
+    2100004: YodoSwitches
+    2100006: Yodo_Switch.001
+    2300000: Base\Base
+    2300002: Logo
+    2300004: Slider\Solid
+    2300006: Base
+    2300008: Brightness
+    2300010: Slider
+    2300012: Sound
+    2300014: Vibration
+    2300016: Bloom
+    2300018: Contrast
+    2300020: PostProcess
+    3300000: Base\Base
+    3300002: Logo
+    3300004: Slider\Solid
+    3300006: Base
+    3300008: Brightness
+    3300010: Slider
+    3300012: Sound
+    3300014: Vibration
+    3300016: Bloom
+    3300018: Contrast
+    3300020: PostProcess
+    4300000: Base\Base
+    4300002: Slider\Solid
+    4300004: Logo
+    4300006: Base
+    4300008: Slider
+    4300010: Sound
+    4300012: Vibration
+    4300014: Brightness
+    4300016: Bloom
+    4300018: Contrast
+    4300020: PostProcess
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YodoSwitches
+    second: {fileID: 2100000, guid: 8d885cc7774be0e4bbbf76ec1175f0de, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["Base"],"padding":[256],"unwrapper":[0]}'
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 3
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: 4271fd7a5a6dc76418d4e60bae1b52e0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base\Base
+    100002: Brightness\Solid
+    100004: Brightness\Solid (10)
+    100006: Brightness\Solid (2)
+    100008: Brightness\Solid (3)
+    100010: Brightness\Solid (4)
+    100012: Brightness\Solid (5)
+    100014: Brightness\Solid (6)
+    100016: Brightness\Solid (7)
+    100018: Brightness\Solid (8)
+    100020: Brightness\Solid (9)
+    100022: Chair\Solid
+    100024: Chair\Solid (2)
+    100026: Chair\Solid (3)
+    100028: Collider\Solid
+    100030: Collider\Solid (2)
+    100032: Collider\Solid (3)
+    100034: GeneralObject\Solid
+    100036: GeneralObject\Solid (2)
+    100038: //RootNode
+    100040: Logo\Solid
+    100042: Logo\Solid (2)
+    100044: Logo\Solid (3)
+    100046: Logo\Solid (4)
+    100048: Logo\Solid (5)
+    100050: Logo\Solid (6)
+    100052: Mirror\Solid
+    100054: Mirror\Solid (2)
+    100056: Mirror\Solid (3)
+    100058: Sound\Solid
+    100060: Sound\Solid (2)
+    100062: Video\Solid
+    100064: Video\Solid (2)
+    100066: Video\Solid (3)
+    100068: Video\Solid (4)
+    100070: Base/HandMarkTmp
+    100072: Brightness\OFF
+    100074: Brightness_ON
+    100076: Chair_OFF
+    100078: Chair_ON
+    100080: Collider_OFF
+    100082: Collider_ON
+    100084: GeneralObject_OFF
+    100086: GeneralObject_ON
+    100088: Mirror_OFF
+    100090: Mirror_ON
+    100092: Sound_OFF
+    100094: Sound_ON
+    100096: Video_OFF
+    100098: Video_ON
+    100100: Brightness_OFF
+    100102: Brightness_ON_1
+    100104: Brightness_ON_2
+    100106: Brightness_ON_3
+    100108: Brightness_ON_4
+    100110: Bloom_OFF
+    100112: Bloom_ON
+    100114: Contrast_OFF
+    100116: Contrast_ON
+    100118: PostProcess_OFF
+    100120: PostProcess_ON
+    400000: Base\Base
+    400002: Brightness\Solid
+    400004: Brightness\Solid (10)
+    400006: Brightness\Solid (2)
+    400008: Brightness\Solid (3)
+    400010: Brightness\Solid (4)
+    400012: Brightness\Solid (5)
+    400014: Brightness\Solid (6)
+    400016: Brightness\Solid (7)
+    400018: Brightness\Solid (8)
+    400020: Brightness\Solid (9)
+    400022: Chair\Solid
+    400024: Chair\Solid (2)
+    400026: Chair\Solid (3)
+    400028: Collider\Solid
+    400030: Collider\Solid (2)
+    400032: Collider\Solid (3)
+    400034: GeneralObject\Solid
+    400036: GeneralObject\Solid (2)
+    400038: //RootNode
+    400040: Logo\Solid
+    400042: Logo\Solid (2)
+    400044: Logo\Solid (3)
+    400046: Logo\Solid (4)
+    400048: Logo\Solid (5)
+    400050: Logo\Solid (6)
+    400052: Mirror\Solid
+    400054: Mirror\Solid (2)
+    400056: Mirror\Solid (3)
+    400058: Sound\Solid
+    400060: Sound\Solid (2)
+    400062: Video\Solid
+    400064: Video\Solid (2)
+    400066: Video\Solid (3)
+    400068: Video\Solid (4)
+    400070: Base/HandMarkTmp
+    400072: Brightness\OFF
+    400074: Brightness_ON
+    400076: Chair_OFF
+    400078: Chair_ON
+    400080: Collider_OFF
+    400082: Collider_ON
+    400084: GeneralObject_OFF
+    400086: GeneralObject_ON
+    400088: Mirror_OFF
+    400090: Mirror_ON
+    400092: Sound_OFF
+    400094: Sound_ON
+    400096: Video_OFF
+    400098: Video_ON
+    400100: Brightness_OFF
+    400102: Brightness_ON_1
+    400104: Brightness_ON_2
+    400106: Brightness_ON_3
+    400108: Brightness_ON_4
+    400110: Bloom_OFF
+    400112: Bloom_ON
+    400114: Contrast_OFF
+    400116: Contrast_ON
+    400118: PostProcess_OFF
+    400120: PostProcess_ON
+    2100000: c_0
+    2100002: c_1
+    2100004: c_2
+    2100006: c_3
+    2100008: c_4
+    2100010: c_5
+    2100012: c_6
+    2100014: c_7
+    2100016: Yodo_Switch
+    2300000: Base\Base
+    2300002: Brightness\Solid
+    2300004: Brightness\Solid (10)
+    2300006: Brightness\Solid (2)
+    2300008: Brightness\Solid (3)
+    2300010: Brightness\Solid (4)
+    2300012: Brightness\Solid (5)
+    2300014: Brightness\Solid (6)
+    2300016: Brightness\Solid (7)
+    2300018: Brightness\Solid (8)
+    2300020: Brightness\Solid (9)
+    2300022: Chair\Solid
+    2300024: Chair\Solid (2)
+    2300026: Chair\Solid (3)
+    2300028: Collider\Solid
+    2300030: Collider\Solid (2)
+    2300032: Collider\Solid (3)
+    2300034: GeneralObject\Solid
+    2300036: GeneralObject\Solid (2)
+    2300038: Logo\Solid
+    2300040: Logo\Solid (2)
+    2300042: Logo\Solid (3)
+    2300044: Logo\Solid (4)
+    2300046: Logo\Solid (5)
+    2300048: Logo\Solid (6)
+    2300050: Mirror\Solid
+    2300052: Mirror\Solid (2)
+    2300054: Mirror\Solid (3)
+    2300056: Sound\Solid
+    2300058: Sound\Solid (2)
+    2300060: Video\Solid
+    2300062: Video\Solid (2)
+    2300064: Video\Solid (3)
+    2300066: Video\Solid (4)
+    2300068: Base/HandMarkTmp
+    2300070: Brightness\OFF
+    2300072: Brightness_ON
+    2300074: Chair_OFF
+    2300076: Chair_ON
+    2300078: Collider_OFF
+    2300080: Collider_ON
+    2300082: GeneralObject_OFF
+    2300084: GeneralObject_ON
+    2300086: Mirror_OFF
+    2300088: Mirror_ON
+    2300090: Sound_OFF
+    2300092: Sound_ON
+    2300094: Video_OFF
+    2300096: Video_ON
+    2300098: Brightness_OFF
+    2300100: Brightness_ON_1
+    2300102: Brightness_ON_2
+    2300104: Brightness_ON_3
+    2300106: Brightness_ON_4
+    2300108: Bloom_OFF
+    2300110: Bloom_ON
+    2300112: Contrast_OFF
+    2300114: Contrast_ON
+    2300116: PostProcess_OFF
+    2300118: PostProcess_ON
+    3300000: Base\Base
+    3300002: Brightness\Solid
+    3300004: Brightness\Solid (10)
+    3300006: Brightness\Solid (2)
+    3300008: Brightness\Solid (3)
+    3300010: Brightness\Solid (4)
+    3300012: Brightness\Solid (5)
+    3300014: Brightness\Solid (6)
+    3300016: Brightness\Solid (7)
+    3300018: Brightness\Solid (8)
+    3300020: Brightness\Solid (9)
+    3300022: Chair\Solid
+    3300024: Chair\Solid (2)
+    3300026: Chair\Solid (3)
+    3300028: Collider\Solid
+    3300030: Collider\Solid (2)
+    3300032: Collider\Solid (3)
+    3300034: GeneralObject\Solid
+    3300036: GeneralObject\Solid (2)
+    3300038: Logo\Solid
+    3300040: Logo\Solid (2)
+    3300042: Logo\Solid (3)
+    3300044: Logo\Solid (4)
+    3300046: Logo\Solid (5)
+    3300048: Logo\Solid (6)
+    3300050: Mirror\Solid
+    3300052: Mirror\Solid (2)
+    3300054: Mirror\Solid (3)
+    3300056: Sound\Solid
+    3300058: Sound\Solid (2)
+    3300060: Video\Solid
+    3300062: Video\Solid (2)
+    3300064: Video\Solid (3)
+    3300066: Video\Solid (4)
+    3300068: Base/HandMarkTmp
+    3300070: Brightness\OFF
+    3300072: Brightness_ON
+    3300074: Chair_OFF
+    3300076: Chair_ON
+    3300078: Collider_OFF
+    3300080: Collider_ON
+    3300082: GeneralObject_OFF
+    3300084: GeneralObject_ON
+    3300086: Mirror_OFF
+    3300088: Mirror_ON
+    3300090: Sound_OFF
+    3300092: Sound_ON
+    3300094: Video_OFF
+    3300096: Video_ON
+    3300098: Brightness_OFF
+    3300100: Brightness_ON_1
+    3300102: Brightness_ON_2
+    3300104: Brightness_ON_3
+    3300106: Brightness_ON_4
+    3300108: Bloom_OFF
+    3300110: Bloom_ON
+    3300112: Contrast_OFF
+    3300114: Contrast_ON
+    3300116: PostProcess_OFF
+    3300118: PostProcess_ON
+    4300000: Base\Base
+    4300002: Brightness\Solid
+    4300004: Brightness\Solid (2)
+    4300006: Brightness\Solid (3)
+    4300008: Brightness\Solid (4)
+    4300010: Brightness\Solid (5)
+    4300012: Brightness\Solid (6)
+    4300014: Brightness\Solid (7)
+    4300016: Brightness\Solid (8)
+    4300018: Brightness\Solid (9)
+    4300020: Brightness\Solid (10)
+    4300022: Chair\Solid
+    4300024: Chair\Solid (2)
+    4300026: Chair\Solid (3)
+    4300028: Mirror\Solid
+    4300030: Mirror\Solid (2)
+    4300032: Mirror\Solid (3)
+    4300034: Video\Solid
+    4300036: Video\Solid (2)
+    4300038: Video\Solid (3)
+    4300040: Video\Solid (4)
+    4300042: Collider\Solid
+    4300044: Collider\Solid (2)
+    4300046: Collider\Solid (3)
+    4300048: Logo\Solid
+    4300050: Logo\Solid (2)
+    4300052: Logo\Solid (3)
+    4300054: Logo\Solid (4)
+    4300056: Logo\Solid (5)
+    4300058: Logo\Solid (6)
+    4300060: Sound\Solid
+    4300062: Sound\Solid (2)
+    4300064: GeneralObject\Solid
+    4300066: GeneralObject\Solid (2)
+    4300068: Base/HandMarkTmp
+    4300070: Brightness_ON
+    4300072: Chair_ON
+    4300074: Mirror_ON
+    4300076: Video_ON
+    4300078: Collider_ON
+    4300080: Sound_ON
+    4300082: GeneralObject_ON
+    4300084: Brightness\OFF
+    4300086: Chair_OFF
+    4300088: Mirror_OFF
+    4300090: Video_OFF
+    4300092: Collider_OFF
+    4300094: Sound_OFF
+    4300096: GeneralObject_OFF
+    4300098: Brightness_ON_2
+    4300100: Brightness_OFF
+    4300102: Brightness_ON_1
+    4300104: Brightness_ON_3
+    4300106: Brightness_ON_4
+    4300108: Contrast_ON
+    4300110: PostProcess_OFF
+    4300112: Bloom_ON
+    4300114: Bloom_OFF
+    4300116: Contrast_OFF
+    4300118: PostProcess_ON
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yodo_Switch
+    second: {fileID: 2100000, guid: 8d885cc7774be0e4bbbf76ec1175f0de, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["Base\\Base"],"padding":[256],"unwrapper":[0]}'
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 45
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 3
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
